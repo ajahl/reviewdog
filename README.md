@@ -5,7 +5,7 @@
 </div>
 
 <h2 align="center">
-  reviewdog - A code review dog who keeps your codebase healthy.
+  reviewdog - A code review dog who keeps your codebase healthy.  
 </h2>
 
 <div align="center">
